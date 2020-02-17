@@ -111,6 +111,11 @@
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-core</artifactId>
 		</dependency>
+		<dependency>
+			<groupId>net.bootsfaces</groupId>
+			<artifactId>bootsfaces</artifactId>
+			<scope>compile</scope>
+		</dependency>
 	</dependencies>
 
 	<build>
