@@ -2,7 +2,7 @@
 <h4>Para executar a aplicação siga os passos abaixo:</h4>
 
 <ul>
-  <li>Baixe o Spring Tool Suite <a href="https://spring.io/tools" target="_blank">aqui.</a></li>
+  <li>Baixe o Eclipse>aqui.</a></li>
   <li>Faça Git Clone deste repositorio em sua maquina.</li>
   <li>Tenha certeza de possuir o <a href="https://www.postgresql.org/">PostgreSQL</a> em sua maquina juntamente com o <a href="https://www.pgadmin.org/">PGAdmin</a>. Abra seu PGAdmin e crie um banco chamado <b>esigdb</b>(o nome do banco deve ser exatamente como está escrito).</li> 
   <li>Importe-o para seu Spring Too Suite como projeto Maven.</li>
